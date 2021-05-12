@@ -1,0 +1,18 @@
+{
+    "exclude": [
+        ["visa", ""],
+        ["master", ""],
+        ["(\\w+) pay", ""],
+        ["amt", ""],
+        ["thfrgn", ""],
+        ["myfrgn", ""],
+        ["direct credit", ""],
+        ["interest credit", ""],
+        ["ext tfr mobile to", ""],
+        ["transfer from", ""],
+        ["transfer to", ""],
+        ["transfer gone to", ""],
+        ["sav mobile", ""],
+        ["sav net", ""]
+    ]
+}
