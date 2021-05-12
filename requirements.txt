@@ -1,5 +1,9 @@
 tox>=2.7.0
 logzero  # see github.com/metachris/logzero
 GitPython
-flask
-pymongo
+Flask==1.0.2
+Flask-RESTful==0.3.7
+gunicorn==19.9.0
+pymongo==3.7.2
+requests==2.21.0
+Unidecode==1.0.23
